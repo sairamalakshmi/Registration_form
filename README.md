@@ -4,7 +4,7 @@ A responsive and interactive **registration form** built using **HTML**, **CSS**
 
 ## 🔗 Live Demo
 
-👉 [View the Form](https://sairamalakshmi.github.io/wd101/)
+👉 [View the Form](https://sairamalakshmi.github.io/Registration_form/)
 
 ## ✨ Features
 
